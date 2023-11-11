@@ -1,0 +1,10 @@
+alarmclock
+apple
+axe
+banana
+car
+cloud
+tree
+winebottle
+wheel
+umbrella
